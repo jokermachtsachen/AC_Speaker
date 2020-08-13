@@ -1,0 +1,8 @@
+lindner_short
+length_in_sec, 97
+mean_intensity, 60.12251480684548
+pauses, 20
+mean_of_pauses, 0.8086650469711685
+rate_of_speech, 4
+balance, 0.8
+mood, showing no emotion

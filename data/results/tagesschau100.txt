@@ -1,0 +1,8 @@
+tagesschau100
+length_in_sec, 114
+mean_intensity, 68.37874026516705
+pauses, 19
+mean_of_pauses, 0.7507310225677586
+rate_of_speech, 4
+balance, 0.9
+mood, reading

@@ -1,0 +1,8 @@
+gysi_short
+length_in_sec, 153
+mean_intensity, 61.82
+pauses, 48
+mean_of_pauses, 0.6913505483826196
+rate_of_speech, 4
+balance, 0.8
+mood, speaking passionately

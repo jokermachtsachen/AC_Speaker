@@ -1,0 +1,8 @@
+roberts_short
+length_in_sec, 112
+mean_intensity, 73.44996187947605
+pauses, 33
+mean_of_pauses, 0.6673722155528883
+rate_of_speech, 4
+balance, 0.8
+mood, speaking passionately
